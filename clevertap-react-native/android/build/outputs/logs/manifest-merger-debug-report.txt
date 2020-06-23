@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+	package
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:1-12:12
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:4:5-10:19
+receiver#com.clevertap.android.sdk.CTPushNotificationReceiver
+ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:5:9-9:20
+	android:enabled
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:8:13-35
+	android:exported
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:7:13-37
+	android:name
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:6:13-80
+uses-sdk
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml

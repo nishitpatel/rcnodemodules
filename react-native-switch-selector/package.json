@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      "react-native-switch-selector@2.0.3",
+      "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master"
+    ]
+  ],
+  "_from": "react-native-switch-selector@2.0.3",
+  "_id": "react-native-switch-selector@2.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-p/c8+VBo06po+y6dHZdSBZOe5HulkFI3ltT99s7/byT9hPKT9M9fYFuUYm6SCH9lyPR0o8bZBO3Jewa0ahra2A==",
+  "_location": "/react-native-switch-selector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-switch-selector@2.0.3",
+    "name": "react-native-switch-selector",
+    "escapedName": "react-native-switch-selector",
+    "rawSpec": "2.0.3",
+    "saveSpec": null,
+    "fetchSpec": "2.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-switch-selector/-/react-native-switch-selector-2.0.3.tgz",
+  "_spec": "2.0.3",
+  "_where": "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master",
+  "bugs": {
+    "url": "https://github.com/App2Sales/react-native-switch-selector/issues"
+  },
+  "contributors": [
+    {
+      "name": "Lucas Santana Carneiro",
+      "email": "jkdrangel@hotmail.com",
+      "url": "https://github.com/jkdrangel"
+    },
+    {
+      "name": "Cassio Silva de Sá Santos",
+      "email": "sss.cassio@gmail.com",
+      "url": "https://github.com/ssscassio"
+    }
+  ],
+  "description": "Switch Selector to React Native.",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.3",
+    "@typescript-eslint/parser": "^2.3.3",
+    "eslint": "^6.5.1",
+    "eslint-plugin-react": "^7.16.0",
+    "typescript": "^3.6.4"
+  },
+  "homepage": "https://github.com/App2Sales/react-native-switch-selector#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-switch-selector",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/App2Sales/react-native-switch-selector.git"
+  },
+  "scripts": {
+    "lint": "eslint index.js index.d.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.3"
+}

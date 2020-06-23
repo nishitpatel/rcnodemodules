@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.clevertap.react.test" >
+4
+5    <uses-sdk
+5-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:11:5-15:74
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:13:22-53
+13        android:label="Tests for com.clevertap.react.test"
+13-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:15:22-72
+14        android:targetPackage="com.clevertap.react.test" />
+14-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:12:22-70
+15
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->[com.facebook.react:react-native:0.20.1] /Users/darshan/.gradle/caches/transforms-2/files-2.1/54d7799f648719e826548df99e4dd60f/react-native-0.20.1/AndroidManifest.xml:11:5-78
+16-->[com.facebook.react:react-native:0.20.1] /Users/darshan/.gradle/caches/transforms-2/files-2.1/54d7799f648719e826548df99e4dd60f/react-native-0.20.1/AndroidManifest.xml:11:22-75
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+17-->[com.android.installreferrer:installreferrer:1.0] /Users/darshan/.gradle/caches/transforms-2/files-2.1/66c1655f801f7586b53a02825e8b07b9/installreferrer-1.0/AndroidManifest.xml:9:5-110
+17-->[com.android.installreferrer:installreferrer:1.0] /Users/darshan/.gradle/caches/transforms-2/files-2.1/66c1655f801f7586b53a02825e8b07b9/installreferrer-1.0/AndroidManifest.xml:9:22-107
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21
+22    <application
+22-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:7:5-9:19
+23        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+23-->[com.android.support:support-compat:28.0.0] /Users/darshan/.gradle/caches/transforms-2/files-2.1/b73d0db3c489aeab8b531c92b0313ef9/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+24        android:debuggable="true" >
+24-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:7:18-43
+25        <uses-library android:name="android.test.runner" />
+25-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:8:9-60
+25-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9051238770899991061.xml:8:23-57
+26
+27        <receiver
+27-->[__tested_artifact__::] /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:20
+28            android:name="com.clevertap.android.sdk.CTPushNotificationReceiver"
+28-->[__tested_artifact__::] /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-80
+29            android:enabled="true"
+29-->[__tested_artifact__::] /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+30            android:exported="false" >
+30-->[__tested_artifact__::] /Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+31        </receiver>
+32
+33        <activity
+33-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:12:9-15:75
+34            android:name="com.clevertap.android.sdk.InAppNotificationActivity"
+34-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:13:13-79
+35            android:configChanges="keyboardHidden"
+35-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:14:13-51
+36            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+36-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:15:13-72
+37        <activity
+37-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:16:9-19:77
+38            android:name="com.clevertap.android.sdk.CTInboxActivity"
+38-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:17:13-69
+39            android:configChanges="keyboardHidden"
+39-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:18:13-51
+40            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+40-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:19:13-74
+41
+42        <service
+42-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:27:9-34:19
+43            android:name="com.clevertap.android.sdk.CTBackgroundIntentService"
+43-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:28:13-79
+44            android:exported="false"
+44-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:29:13-37
+45            android:permission="android.permission.BIND_JOB_SERVICE" >
+45-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:30:13-69
+46            <intent-filter>
+46-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:31:13-33:29
+47                <action android:name="com.clevertap.BG_EVENT" />
+47-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:32:17-65
+47-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:32:25-62
+48            </intent-filter>
+49        </service>
+50        <service
+50-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:35:9-39:19
+51            android:name="com.clevertap.android.sdk.CTBackgroundJobService"
+51-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:36:13-76
+52            android:exported="false"
+52-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:37:13-37
+53            android:permission="android.permission.BIND_JOB_SERVICE" >
+53-->[com.clevertap.android:clevertap-android-sdk:3.7.2] /Users/darshan/.gradle/caches/transforms-2/files-2.1/9c1a5d76573bbaf82ccc840154464af7/clevertap-android-sdk-3.7.2/AndroidManifest.xml:38:13-69
+54        </service>
+55    </application>
+56
+57</manifest>

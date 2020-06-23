@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      "react-native-textarea@1.0.3",
+      "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master"
+    ]
+  ],
+  "_from": "react-native-textarea@1.0.3",
+  "_id": "react-native-textarea@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-0aZsZUgjCbXDIYZ7ESHjJWZ8fQhzrt0gNL3hJDVqv/4jC13id4Zcuex5aZzqY83JUK3uZr7gqWtFDpO4HVQWOw==",
+  "_location": "/react-native-textarea",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-textarea@1.0.3",
+    "name": "react-native-textarea",
+    "escapedName": "react-native-textarea",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-textarea/-/react-native-textarea-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master",
+  "author": {
+    "name": "Leo Xin",
+    "email": "xinlichao2016@gmail.com",
+    "url": "https://github.com/xinlc"
+  },
+  "bugs": {
+    "url": "https://github.com/xinlc/react-native-textarea/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "description": "React Native textarea component",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-preset-react-native": "^4.0.0",
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.6.0",
+    "flow": "^0.2.3",
+    "flow-bin": "^0.49.1",
+    "flow-typed": "^2.1.2",
+    "react": "^16.3.0-alpha.1",
+    "react-native": "0.54.2"
+  },
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/xinlc/react-native-textarea",
+  "keywords": [
+    "textarea",
+    "react-native-textarea",
+    "react-native",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-textarea",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "url": "git+ssh://git@github.com/xinlc/react-native-textarea.git",
+    "type": "git"
+  },
+  "scripts": {
+    "android": "cd examples/Basic && npm install && npm run android",
+    "ci": "npm publish",
+    "ios": "cd examples/Basic && npm install && npm run ios",
+    "lint": "eslint . --cache",
+    "lint-fix": "eslint . --fix --cache",
+    "start": "npm run ios",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}

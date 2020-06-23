@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.clevertap.react"
+4    android:versionCode="41"
+5    android:versionName="0.4.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:4:5-10:19
+12        <receiver
+12-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:5:9-9:20
+13            android:name="com.clevertap.android.sdk.CTPushNotificationReceiver"
+13-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:6:13-80
+14            android:enabled="true"
+14-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:8:13-35
+15            android:exported="false" >
+15-->/Users/darshan/Desktop/CleverTapApps/clevertap-react-native/android/src/main/AndroidManifest.xml:7:13-37
+16        </receiver>
+17    </application>
+18
+19</manifest>

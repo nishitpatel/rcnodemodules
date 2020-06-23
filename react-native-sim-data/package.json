@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      "react-native-sim-data@3.0.0",
+      "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master"
+    ]
+  ],
+  "_from": "react-native-sim-data@3.0.0",
+  "_id": "react-native-sim-data@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-TE7AgLqu5HE1Gi6K08DV8L8920M7+A9vEufW4E8e0OWVg9fd92jPAKZdsXP/6ksMhmvH5yGbi0q/c2Gwq4udpw==",
+  "_location": "/react-native-sim-data",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-sim-data@3.0.0",
+    "name": "react-native-sim-data",
+    "escapedName": "react-native-sim-data",
+    "rawSpec": "3.0.0",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sim-data/-/react-native-sim-data-3.0.0.tgz",
+  "_spec": "3.0.0",
+  "_where": "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master",
+  "author": {
+    "name": "Sergey Bushnyak",
+    "email": "sergey.bushnyak@sigrlami.eu",
+    "url": "https://github.com/sigrlami"
+  },
+  "bugs": {
+    "url": "https://github.com/pocesar/react-native-sim-data/issues"
+  },
+  "description": "React Native plugin to get the device's SIM data (carrier name, mcc mnc, country code, phone number, etc)",
+  "homepage": "https://github.com/pocesar/react-native-sim-data#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "device",
+    "sim",
+    "phone number"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-sim-data",
+  "peerDependencies": {
+    "@types/react": "*",
+    "@types/react-native": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pocesar/react-native-sim-data.git"
+  },
+  "scripts": {
+    "compile": "tsc -p tsconfig.json",
+    "prepublishOnly": "npm run compile"
+  },
+  "typings": "index.d.ts",
+  "version": "3.0.0"
+}

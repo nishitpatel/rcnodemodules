@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "react-navigation-header-buttons@3.0.5",
+      "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master"
+    ]
+  ],
+  "_from": "react-navigation-header-buttons@3.0.5",
+  "_id": "react-navigation-header-buttons@3.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-b1AsL9k6Klp72CnAq4IF0xgw94FClBIsUr/pGUKa1PI+mStdF0AYZzi9qtYgqQNDIOpqxQ2xYUM9azL2VmPUeQ==",
+  "_location": "/react-navigation-header-buttons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-navigation-header-buttons@3.0.5",
+    "name": "react-navigation-header-buttons",
+    "escapedName": "react-navigation-header-buttons",
+    "rawSpec": "3.0.5",
+    "saveSpec": null,
+    "fetchSpec": "3.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-navigation-header-buttons/-/react-navigation-header-buttons-3.0.5.tgz",
+  "_spec": "3.0.5",
+  "_where": "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master",
+  "author": {
+    "name": "Vojtech Novak"
+  },
+  "bugs": {
+    "url": "https://github.com/vonovak/react-navigation-header-buttons/issues"
+  },
+  "dependencies": {
+    "react-native-platform-touchable": "^1.1.1"
+  },
+  "description": "Easily render header buttons for react-navigation.",
+  "homepage": "https://github.com/vonovak/react-navigation-header-buttons#readme",
+  "keywords": [
+    "react-navigation",
+    "header",
+    "navbar"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-navigation-header-buttons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vonovak/react-navigation-header-buttons.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.5"
+}

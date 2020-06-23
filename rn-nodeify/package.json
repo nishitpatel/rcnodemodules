@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "github:tradle/rn-nodeify",
+      "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master"
+    ]
+  ],
+  "_development": true,
+  "_from": "github:tradle/rn-nodeify",
+  "_id": "rn-nodeify@github:tradle/rn-nodeify#300ca4460c3e4ffa01c45b3a122ce182dc1a0c5a",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/rn-nodeify",
+  "_phantomChildren": {
+    "graceful-fs": "4.2.3",
+    "rimraf": "2.7.1"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "github:tradle/rn-nodeify",
+    "rawSpec": "github:tradle/rn-nodeify",
+    "saveSpec": "github:tradle/rn-nodeify",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "github:tradle/rn-nodeify#300ca4460c3e4ffa01c45b3a122ce182dc1a0c5a",
+  "_spec": "github:tradle/rn-nodeify",
+  "_where": "/Users/snapwork/Developers/Nishit/BBPS/Code/Bajaj_BBPS_Android-master",
+  "bin": {
+    "rn-nodeify": "cmd.js"
+  },
+  "bugs": {
+    "url": "https://github.com/tradle/rn-nodeify/issues"
+  },
+  "dependencies": {
+    "@yarnpkg/lockfile": "^1.0.0",
+    "deep-equal": "^1.0.0",
+    "findit": "^2.0.0",
+    "fs-extra": "^0.22.1",
+    "minimist": "^1.1.2",
+    "object.pick": "^1.1.1",
+    "run-parallel": "^1.1.2",
+    "semver": "^5.0.1",
+    "xtend": "^4.0.0"
+  },
+  "description": "Run after npm install and you can use node core modules and npm modules that use them in your React Native app.",
+  "devDependencies": {
+    "husky": "^0.14.3"
+  },
+  "homepage": "https://github.com/tradle/rn-nodeify#readme",
+  "license": "MIT",
+  "name": "rn-nodeify",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tradle/rn-nodeify.git"
+  },
+  "scripts": {
+    "lint": "eslint --quiet --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "version": "10.2.0"
+}
